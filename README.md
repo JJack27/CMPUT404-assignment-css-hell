@@ -22,3 +22,6 @@ repository and (C) 2013 Abram Hindle visibile in the text.
 Code is licensed under the Apache 2.0 license.
 
 
+### Modifications in HTMLs
+- In each html files, I have deleted the `style` tag in header seciton.
+- In `2.html`, I merge the image and the first `<pre>` tag together in order to make it looks good.

@@ -143,6 +143,16 @@ pre {
     margin-right: auto;
 }
 
+table pre {
+    font-style: italic;
+    font-size: 90%;
+    margin-left: 0%;
+    margin-top: 0%;
+    padding-top: 10pt;
+    color: #be6a15;
+    margin-right: auto;
+}
+
 
 hr {
     display: none;
@@ -158,8 +168,13 @@ br {
 
 }
 .fig img{
-    height: 500pt;
+    height: 300pt;
     width: auto !important;
     border: #6e3b3b;
     display: inline-block;
+}
+
+table{
+    margin-left: 10%;
+    margin-right: 35%;
 }
